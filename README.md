@@ -1,61 +1,40 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# DriveGo
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Project Description
 
-## About Laravel
+**DriveGo** is a comprehensive Vehicle Rental System designed to streamline the process of renting and managing vehicles. Built using Laravel PHP with SQLite for the backend, DriveGo supports three user types: Admin, Owner, and Renter.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Project Documents
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Below are the visual documents for DriveGo:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+[DriveGo Docs](https://docs.google.com/document/d/11QAtv0YBtHRQyw_SPIA_hhmJt3c8QApmizqraZ6hO2g/edit?fbclid=IwZXh0bgNhZW0CMTEAAR6cGkaJC_T4k-CPUpTanuCUzh5IqyYxwp4gREa6AXr71gEo34ZaxCIogI3S1w_aem_UlQEOlZdhAvRns5WO8T12Q&tab=t.0)
 
-## Learning Laravel
+![Page 01](docs/DriveGo%20Project%20Documents-01.png)
+![Page 02](docs/DriveGo%20Project%20Documents-02.png)
+![Page 03](docs/DriveGo%20Project%20Documents-03.png)
+![Page 04](docs/DriveGo%20Project%20Documents-04.png)
+![Page 05](docs/DriveGo%20Project%20Documents-05.png)
+![Page 06](docs/DriveGo%20Project%20Documents-06.png)
+![Page 07](docs/DriveGo%20Project%20Documents-07.png)
+![Page 08](docs/DriveGo%20Project%20Documents-08.png)
+![Page 09](docs/DriveGo%20Project%20Documents-09.png)
+![Page 10](docs/DriveGo%20Project%20Documents-10.png)
+![Page 11](docs/DriveGo%20Project%20Documents-11.png)
+![Page 12](docs/DriveGo%20Project%20Documents-12.png)
+![Page 13](docs/DriveGo%20Project%20Documents-13.png)
+![Page 14](docs/DriveGo%20Project%20Documents-14.png)
+![Page 15](docs/DriveGo%20Project%20Documents-15.png)
+![Page 16](docs/DriveGo%20Project%20Documents-16.png)
+![Page 17](docs/DriveGo%20Project%20Documents-17.png)
+![Page 18](docs/DriveGo%20Project%20Documents-18.png)
+![Page 19](docs/DriveGo%20Project%20Documents-19.png)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Group Members
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development/)**
-- **[Active Logic](https://activelogic.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+**Team:**
+- [Sasing](https://github.com/fritzxdd/ELPHP_FR_1130-430SAT)
+- [Butas](https://github.com/M0NSTIEZ/BUTAS_BN_1130-430SAT_PHP.git)
+- [Janohan]()
+- [Bailon](https://github.com/PatrickBailon/ELPHP_PA1130-430SAT)
+- [Suficiencia](https://github.com/BrixSuficiencia/ELPHP_BR_1130-430SAT)
